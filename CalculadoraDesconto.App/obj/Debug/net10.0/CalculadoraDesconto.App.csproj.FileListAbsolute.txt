@@ -1,0 +1,14 @@
+c:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+c:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfo.cs
+c:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.exe
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.deps.json
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.runtimeconfig.json
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\refint\CalculadoraDesconto.App.dll
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
+C:\Users\natan\Documents\Atividade\AulaCShapAT03\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll

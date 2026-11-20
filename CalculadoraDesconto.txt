@@ -1,0 +1,8 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.013 cd .\Documents\Atividade\AulaCShapAT03
+   2        1.614 dotnet build .\CalculadoraDesconto.App\CalculadoraDesconto.App.csproj
+   3        1.785 dotnet build .\CalculadoraDesconto.sln
+   4        2.620 dotnet test .\CalculadoraDesconto.sln
+
